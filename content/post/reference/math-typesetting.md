@@ -4,6 +4,7 @@ title: Math Typesetting
 date: 2019-03-08
 archives: ["2019/03"]
 description: A brief guide to setup KaTeX
+draft : true
 math: true
 ---
 

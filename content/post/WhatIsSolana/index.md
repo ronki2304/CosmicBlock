@@ -4,7 +4,8 @@ draft = false
 title = 'What Is Solanna'
 image = "img/639cbabe-8be3-4b54-a9da-fccf3af0e350.png"
 +++
-# **What is Solana? An intro to the Fastest Blockchain**
+
+# **What is Solana? An intro to the Blockchain**
 
 Solana is quickly becoming one of the most talked-about blockchain platform for its performance and its troubles. But what sets Solana apart from other blockchain networks like Ethereum or Bitcoin? In this article, we'll dive into what Solana is, how it works, and why it's capturing the interest of developers, investors, and crypto enthusiasts worldwide.
 <!--more-->

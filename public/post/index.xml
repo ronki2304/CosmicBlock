@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cosmic Block</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Cosmic Block</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 14:47:15 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is Solanna</title>
+      <link>http://localhost:1313/post/whatissolana/</link>
+      <pubDate>Tue, 29 Oct 2024 14:47:15 +0100</pubDate>
+      <guid>http://localhost:1313/post/whatissolana/</guid>
+      <description>&lt;h1 id=&#34;what-is-solana-an-intro-to-the-fastest-blockchain&#34;&gt;&lt;strong&gt;What is Solana? An intro to the Fastest Blockchain&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Solana is quickly becoming one of the most talked-about blockchain platform for its performance and its troubles. But what sets Solana apart from other blockchain networks like Ethereum or Bitcoin? In this article, we&amp;rsquo;ll dive into what Solana is, how it works, and why it&amp;rsquo;s capturing the interest of developers, investors, and crypto enthusiasts worldwide.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roadmap</title>
+      <link>http://localhost:1313/post/roadmap/</link>
+      <pubDate>Tue, 29 Oct 2024 14:13:07 +0100</pubDate>
+      <guid>http://localhost:1313/post/roadmap/</guid>
+      <description>&lt;p&gt;Voici une liste de 30 idées d&amp;rsquo;articles que tu pourrais écrire sur Solana et Luna Classic pour ton blog. Ces sujets couvrent différents aspects des deux projets, de leur technologie aux stratégies d&amp;rsquo;investissement, et visent à t&amp;rsquo;aider à diversifier ton contenu :&lt;/p&gt;&#xA;&lt;h1 id=&#34;articles-sur-solana&#34;&gt;Articles sur Solana&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Qu&amp;rsquo;est-ce que Solana ? : Une introduction simple à la blockchain Solana et ses avantages. OK&lt;/li&gt;&#xA;&lt;li&gt;programming on solana&lt;/li&gt;&#xA;&lt;li&gt;Pourquoi Solana est-elle unique ? : Analyse des points forts de Solana, notamment le Proof of History et sa rapidité.&lt;/li&gt;&#xA;&lt;li&gt;Solana vs Ethereum : Quelle blockchain choisir en 2024 ? : Comparaison des avantages et inconvénients de chaque blockchain.&lt;/li&gt;&#xA;&lt;li&gt;Guide complet pour staker des SOL : Comment staker ses SOL pour obtenir des récompenses.&lt;/li&gt;&#xA;&lt;li&gt;Les meilleures dApps sur Solana à surveiller : Un tour d&amp;rsquo;horizon des dApps les plus innovantes de l&amp;rsquo;écosystème.&lt;/li&gt;&#xA;&lt;li&gt;Les avantages et les défis du Proof of History de Solana : Explication de cette technologie et ses impacts sur le réseau.&lt;/li&gt;&#xA;&lt;li&gt;Comment participer à un hackathon Solana : Guide pratique pour participer aux hackathons et contribuer à l&amp;rsquo;écosystème.&lt;/li&gt;&#xA;&lt;li&gt;Top 5 des projets DeFi sur Solana : Analyse des meilleurs projets DeFi sur Solana et de leur impact.&lt;/li&gt;&#xA;&lt;li&gt;Comprendre les nœuds RPC de Solana : Qu&amp;rsquo;est-ce qu&amp;rsquo;un nœud RPC et quel rôle joue-t-il dans l&amp;rsquo;écosystème ?&lt;/li&gt;&#xA;&lt;li&gt;Interview avec un validateur Solana : Raconter l&amp;rsquo;expérience d&amp;rsquo;un validateur et les défis rencontrés.&lt;/li&gt;&#xA;&lt;li&gt;Les meilleurs wallets pour Solana : Comparaison des wallets les plus sûrs pour stocker et staker des SOL.&lt;/li&gt;&#xA;&lt;li&gt;Le futur de Solana : Est-ce l&amp;rsquo;Ethereum killer ? : Exploration des perspectives futures de Solana.&lt;/li&gt;&#xA;&lt;li&gt;Comment les NFT prospèrent sur Solana : Les atouts de Solana pour les créateurs de NFT.&lt;/li&gt;&#xA;&lt;li&gt;Comprendre les coûts de fonctionnement d&amp;rsquo;un nœud Solana : Combien cela coûte de lancer un nœud, et quelles sont les solutions ?&lt;/li&gt;&#xA;&lt;li&gt;Les projets de gaming sur Solana : Exploration des jeux décentralisés créés sur Solana.&lt;/li&gt;&#xA;&lt;li&gt;Les composants technologiques de l&amp;rsquo;écosystème Solana : Liste des composants technologiques clés qui jouent un rôle dans l&amp;rsquo;environnement Solana.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;articles-sur-luna-classic&#34;&gt;Articles sur Luna Classic&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Histoire de Luna Classic : Du succès à la chute et à la renaissance : Retour sur l&amp;rsquo;histoire de Terra et de Luna Classic.&lt;/li&gt;&#xA;&lt;li&gt;Pourquoi tout le monde brûle des tokens Luna Classic ? : Explication des initiatives de burn et leur impact sur le prix.&lt;/li&gt;&#xA;&lt;li&gt;Staking Luna Classic : Guide complet : Comment staker LUNC et quelles sont les récompenses attendues.&lt;/li&gt;&#xA;&lt;li&gt;Luna Classic vs Luna 2.0 : Quelles différences ? : Comparaison entre les deux jetons et leur trajectoire.&lt;/li&gt;&#xA;&lt;li&gt;Les risques d&amp;rsquo;investir dans Luna Classic : Analyse des risques et opportunités d&amp;rsquo;investir dans LUNC.&lt;/li&gt;&#xA;&lt;li&gt;Qu&amp;rsquo;est-ce qui motive la communauté de Luna Classic ? : Exploration des initiatives communautaires et de la dynamique autour du LUNC.&lt;/li&gt;&#xA;&lt;li&gt;Les meilleures stratégies pour trader Luna Classic : Guide pour les investisseurs qui veulent maximiser leurs profits sur LUNC.&lt;/li&gt;&#xA;&lt;li&gt;Peut-on encore croire à une remontée de Luna Classic ? : Analyse des facteurs qui pourraient influencer l&amp;rsquo;évolution du prix.&lt;/li&gt;&#xA;&lt;li&gt;La feuille de route de la communauté Luna Classic : Quels sont les plans de développement futurs pour LUNC ?&lt;/li&gt;&#xA;&lt;li&gt;L’impact du crash de Terra sur l’industrie crypto : Le rôle de l’effondrement de Terra et Luna Classic dans la régulation de la crypto.&lt;/li&gt;&#xA;&lt;li&gt;Les composants technologiques de l&amp;rsquo;écosystème Luna Classic : Liste des composants technologiques clés qui jouent un rôle dans l&amp;rsquo;environnement Luna Classic.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;articles-combinés-sur-solana-et-luna-classic&#34;&gt;Articles Combinés sur Solana et Luna Classic&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solana et Luna Classic : Comparaison de leurs écosystèmes : Une étude des différences et similarités entre les deux projets.&lt;/li&gt;&#xA;&lt;li&gt;Comment Solana et Luna Classic gèrent-ils la scalabilité ? : Comparaison des solutions techniques pour l&amp;rsquo;évolutivité.&lt;/li&gt;&#xA;&lt;li&gt;Investir dans Solana ou Luna Classic : Quel choix pour 2024 ? : Conseils d’investissement selon les profils de risque.&lt;/li&gt;&#xA;&lt;li&gt;Les initiatives communautaires de Solana et Luna Classic : Comment ces deux communautés contribuent à leur projet respectif.&lt;/li&gt;&#xA;&lt;li&gt;L’avenir des altcoins : Solana, Luna Classic, et autres challengers : Discussion sur les perspectives à long terme de ces deux cryptos par rapport à d’autres altcoins.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/post/reference/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reference/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/post/reference/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reference/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/post/reference/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reference/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/post/reference/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reference/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/post/reference/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reference/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways. 😀&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

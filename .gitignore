@@ -129,4 +129,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-public/
+/public/
+/resources/
+/hugo_stats.json

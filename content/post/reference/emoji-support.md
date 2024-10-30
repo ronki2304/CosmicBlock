@@ -1,6 +1,6 @@
 +++
 draft = true
-author = "Jeremy RONK"
+author = "Cosmic Ronki"
 title = "Emoji Support"
 date = "2019-03-05"
 description = "Guide to emoji usage in Hugo"

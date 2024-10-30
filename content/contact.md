@@ -3,14 +3,17 @@ title= "Contact"
 description= "Hugo, the world's fastest framework for building websites"
 date= 2019-02-25
 aliases= ["contact"]
-author= "Jeremy RONK"
+author= "Cosmic Ronki"
 +++
 
 {{< rawhtml >}}
 
+
+
+
 <div class="content">
     <p class="mb-2">To contact us, please fill out the form below.</p>
-    <form name=contact action="https://getform.io/f/4bc32c7d-2c91-4c4d-bacf-a8c1bccf1de9" method=post>
+    <form action="https://getform.io/f/bpjjjppb" method="POST">
     <div class="mb-4">
          <input type=text placeholder="Your Name" name=name class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required>
     </div>

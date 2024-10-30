@@ -1,8 +1,16 @@
 +++
 date = '2024-10-29T14:47:15+01:00'
 draft = false
-title = 'What Is Solanna'
+title = 'What Is Solana'
 image = "img/639cbabe-8be3-4b54-a9da-fccf3af0e350.png"
+tags = [
+    "Solana",
+]
+categories = [
+    "BlockChain",
+    "Solana"
+]
+series = ["Block Chains description"]
 +++
 
 # **What is Solana? An intro to the Blockchain**

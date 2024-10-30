@@ -1,25 +1,22 @@
 +++
-title = "About"
+title = "About Cosmic Block"
 description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Jeremy RONK"
+date = "2024-10-28"
+aliases = ["about-us", "contact"]
+author = "Cosmic Ronki"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+CosmicBlock is a blog around solanna and Luna classic blockchain and will cover all aspect included the node and network management
 
-Hugo makes use of a variety of open source projects including:
+## Who am I
+Since I was fourteen, I have always been passionate about IT. Naturally, I started my career in IT, and I am currently a CTO. I've always been fascinated by the intersection of technology, innovation, and finance. 
+## Why CosmicBlock
+I started this blog to share my journey, insights, and discoveries in the blockchain space, particularly focusing on Solana and Luna Classic, to help others better understand this evolving technology. My journey in cryptocurrency began in 2017, giving me early exposure to the industry's growth and challenges. The blockchain industry lies at the intersection of my skills and represents a major area of interest for me.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Cosmic Block is more than a blog—it’s a community for those who are passionate about the transformative potential of blockchain. Whether you’re a seasoned developer, an investor, or simply someone curious about the next chapter in crypto, we aim to offer valuable perspectives and practical knowledge to help you navigate this exciting space.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## 🌐 Connect with us:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- 🗣️ [Join us on Discord](https://discord.com/invite/yourserver) for real-time discussions.
+- 🐦 [Follow us on Twitter](https://twitter.com/yourprofile) for the latest updates.
+- ☁️ [Follow us on Bluesky](https://bsky.app/yourprofile).

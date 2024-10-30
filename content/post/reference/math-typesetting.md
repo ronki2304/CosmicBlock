@@ -1,5 +1,5 @@
 ---
-author: Jeremy RONK
+author: Cosmic Ronki
 title: Math Typesetting
 date: 2019-03-08
 archives: ["2019/03"]

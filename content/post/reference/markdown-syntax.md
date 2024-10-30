@@ -1,5 +1,5 @@
 +++
-author = "Jeremy RONK"
+author = "Cosmic Ronki"
 title = "Markdown Syntax Guide"
 date = "2019-03-11"
 draft = true

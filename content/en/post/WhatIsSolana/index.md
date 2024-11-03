@@ -1,8 +1,9 @@
 +++
 date = '2024-10-29T14:47:15+01:00'
 draft = false
-title = 'What Is Solana'
+title = "Solana the next Ethereum generation ?"
 image = "img/639cbabe-8be3-4b54-a9da-fccf3af0e350.png"
+lang = "en"
 tags = [
     "Solana",
 ]
@@ -10,11 +11,10 @@ categories = [
     "BlockChain",
     "Solana"
 ]
-series = ["Block Chains description"]
+menus = ["Block Chains description"]
 +++
 
 # **What is Solana? An intro to the Blockchain**
-
 Solana is quickly becoming one of the most talked-about blockchain platform for its performance and its troubles. But what sets Solana apart from other blockchain networks like Ethereum or Bitcoin? In this article, we'll dive into what Solana is, how it works, and why it's capturing the interest of developers, investors, and crypto enthusiasts worldwide.
 <!--more-->
 
@@ -51,3 +51,4 @@ Despite these challenges, Solana's ability to attract major partnerships, fundin
 Solana isn't just another blockchain network—it's a reimagining of what blockchain can be. Its speed, scalability, and developer-friendly ecosystem make it an exciting option for anyone looking to build or use decentralized applications that can serve millions of people globally. Whether you're an investor, developer, or just curious about the future of blockchain, Solana is definitely worth keeping an eye on.
 
 With **Cosmic Block**, I am passionate about exploring projects that have the potential to reshape the future. Solana is one such project, pushing the boundaries of what's possible and aiming to bring blockchain technology to the masses. Stay tuned as we continue to follow and break down the latest in the Solana ecosystem.
+

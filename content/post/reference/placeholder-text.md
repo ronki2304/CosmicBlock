@@ -3,7 +3,7 @@ author = "Cosmic Ronki"
 title = "Placeholder Text"
 date = "2019-03-09"
 description = "Lorem Ipsum Dolor Si Amet"
-draft = false
+draft = true
 tags = [
     "markdown",
     "text",

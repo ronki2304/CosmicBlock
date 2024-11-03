@@ -1,0 +1,19 @@
+[[main]]
+  identifier = "home"
+  name = "Accueil"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  identifier = "about"
+  name = "À propos"
+  pageRef = "/about/"
+  weight = 2
+
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  pageRef = "/contact/"
+  weight = 3
+
+ 

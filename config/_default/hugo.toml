@@ -1,11 +1,18 @@
 baseURL = "https://example.com"
-title = "CosmicBlock"
-author = "Cosmic Ronki"
-languageCode = "en"
+title = "BlockAnalytics"
+author = "Jérémy RONK"
+#Site description
+description = "Uncovering Blockchain Insights, Empowering Smarter Moves"
 DefaultContentLanguage = "en"
+enableMultilingual = true
 enableInlineShortcodes = true
+defaultContentLanguageInSubdir = true
+
+
 theme = "Blonde"
 enableRobotsTXT = true
+tableOfContents = true
+
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
@@ -17,18 +24,20 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 [params]
+tableOfContents = true
+
+
 # Base color of the website.
 # https://tailwindcss.com/docs/background-color
 base_color = "bg-gray-800"
 
-#Site description
-description = "A blog by a BlockChain lover for BlockChain lover "
+
 
 # The number of articles to be displayed on a single page.
 paginator_pages = 5
 enableEmoji= true
 # Enable this if you want the archive list to be in a drop-down format.
-archive_dropdown = "false"
+archive_dropdown = "true"
 
 # Number of tags to be displayed.
 tagsLimit = 20
@@ -37,24 +46,36 @@ tagsLimit = 20
 # Light mode by default : light
 darkmode = "dark"
 
-  [params.ad]
-    # Google AdSense
-    # ex. ca-pub-0000000000000000
-    googleAdSense = ""
+[languages] 
+   [languages.en]
+    baseURL = "https://example.com/en"
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Block Insight'
+    weight = 1
 
-    # ex. 000000000
-    adslot = ""
+    
+  [languages.fr]
+    baseURL = "https://example.com/fr"
+    contentDir = 'content/fr'
+    disabled = false
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'Block Insight'
+    weight = 2
 
-    # Placement of ads
-    postTop = false
-    postBottom = false
-
+    
+  
   [params.post]
     # Show thumbnails
     thumbnail = true
 
     # Disable the "NO IMAGE" image.
-    noimage = true
+    noimage = false
 
     # See the Tailwind CSS documentation to set it up.
     # Recommended settings are h-32 to h-48.
@@ -79,24 +100,8 @@ darkmode = "dark"
 #    enabled = true
 #    tagNumber = ''
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 3
+    
 
 [taxonomies]
 category = "categories"
